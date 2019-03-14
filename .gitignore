@@ -3,3 +3,6 @@ rootkey.csv
 *.pem
 rootkey.xlsx
 ~$rootkey.xlsx
+pizza-luvrs-master/node_modules
+pizza-luvrs-master/.vscode
+pizza-luvrs-master/log
